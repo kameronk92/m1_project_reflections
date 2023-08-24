@@ -23,12 +23,16 @@ This project loads a deck of cards and quizzes the user on trivia knowledge. It 
 ### Reflection Questions: 
 **1. How do you approach solving something when you don’t have all the information?**<br />
 When I don't have all the information I need for a problem, I first organize what I do know. Then I look at my next step and see what I might need to find to complete the next step. I usually start with a search of Turing resources and my notes. If I don't find what I need there, I continue to google or my cohort. 
+
 **2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
 My most effective strategy when faced with a blocker was relying on my cohort. I'm thankful it's full of smart people I can rely on. Once I got the help I needed to continue, I would refactor the code to make sure I understood. 
+
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
 One night, Billy and I had spent 30-45 minutes with the same error. It was getting late so I reached out to my cohort for help and it turned out we were just missing some punctuation. 
+
 **4. What was the benefit of using TDD while building out this project?**<br />
 TDD helps establish the goals of the project and then to build the important classes, methods and variables to satisfy them. It can be a kind of cypher when opening the project the next morning to see what outputs what. 
+
 
 ## First Solo
 
