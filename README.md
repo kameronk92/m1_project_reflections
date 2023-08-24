@@ -1,5 +1,3 @@
-You will need to copy this markdown, create your own **private** gist, and paste this markdown in your own gist. After each project, you will take time to come back to your private gist and answer each of the questions that are outlined for you below. 
-
 # M1 Project Reflections
 
 ## Warmup Project - Flash Cards Game
