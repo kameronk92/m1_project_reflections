@@ -11,7 +11,8 @@ This project used ruby and rspec to demonstrate test driven development, where c
 3. RSpec
 4. Ruby
 5. Ruby classes
-6. Test Driven Development (TDD)
+6. pry
+7. Test Driven Development (TDD)
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
