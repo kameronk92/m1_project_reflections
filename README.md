@@ -33,22 +33,33 @@ One night, Billy and I had spent 30-45 minutes with the same error. It was getti
 TDD helps establish the goals of the project and then to build the important classes, methods and variables to satisfy them. It can be a kind of cypher when opening the project the next morning to see what outputs what. 
 
 
-## First Solo
+## First Solo - Beat Box
 
 ### Project Overview
+The Beat Box project used Ruby classes to create a linked list of beat box sounds in order to make my computer beat box. 
 
 #### List out the tools you used:
-1.
-2.
-3.
-...
+1. Test Driven Development
+2. RSpec testing
+3. Ruby Classes
+4. VS Code
+5. Mac Terminal
+6. Github
 
 #### Write a 1-2 sentence synopsis of what this project does:
+The Beat Box project used Ruby classes to create a linked list of beat box sounds in order to make my computer beat box. 
+Methods for the linked list included append, prepend, count, insert, and pop. 
 
 ### Reflection Questions: 
 **1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
-**2. What was your process when you got stuck?**<br />
+
+Test Driven Development was pivotal on this project. Although I don't have it perfected, I saw how TDD can help programmers see edge cases before diving into the code. Then when they do dive in, they are better prepared to address edge cases.
+
+**2. What was your process when you got stuck?**<br /> Similar to other projects, I would first check out the stack trace to see if I made a simple error. Next I would turn to the internet for an explanation. If I couldn't find an answer there, I would check with my cohort. 
+
+
 **3. If you had to do this project again, what would you do differently and why?**<br />
+To do this project differently, I might allow myself more time and space to complete the extensions. I would have started a list of approved beats at the beginning of the project so I didn't have to go back and find them later. 
 
 ## Second Solo
 
