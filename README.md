@@ -74,6 +74,13 @@ To do this project differently, I might allow myself more time and space to comp
 #### Write a 1-2 sentence synopsis of what this project does:
 
 ### Reflection Questions: 
+**1 Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
+I started by running the rspec file and seeing what falures resulted. I systematically worked thorugh the failures one by one to address the issues. Once I thought one was addressed, I would re-run rspec to see if it was solved. If it was, I would move on to the next failed test. After solving the failures, I read through the .lib files and tried to make sense of how the classes interacted. 
+**2 What was hard about working with code you did not write?
+It was hard to put someone else's code under a microscope and find the smaller errors in it, like missing syntax. It also took some time to look through the classes and understand how they interacted.  
+**3 What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?
+With some experience in fixing failues and reading rspec output and stack trace, it was somewhat easy to pinpoint where errors happened. 
+
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
 **2. What was the benefit of using TDD while building out this project?**<br />
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
