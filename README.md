@@ -53,7 +53,7 @@ Methods for the linked list included append, prepend, count, insert, and pop.
 ### Reflection Questions: 
 **1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
 
-Test Driven Development was pivotal on this project. Although I don't have it perfected, I saw how TDD can help programmers see edge cases before diving into the code. Then when they do dive in, they are better prepared to address edge cases.
+Test Driven Development was pivotal on this project. It changed my perspective from writing code, to writing code to meet goals I set. Although I don't have it perfected, I saw how TDD can help programmers see edge cases before diving into the code. Then when they do dive in, they are better prepared to address edge cases.
 
 **2. What was your process when you got stuck?**<br /> Similar to other projects, I would first check out the stack trace to see if I made a simple error. Next I would turn to the internet for an explanation. If I couldn't find an answer there, I would check with my cohort. 
 
@@ -61,15 +61,20 @@ Test Driven Development was pivotal on this project. Although I don't have it pe
 **3. If you had to do this project again, what would you do differently and why?**<br />
 To do this project differently, I might allow myself more time and space to complete the extensions. I would have started a list of approved beats at the beginning of the project so I didn't have to go back and find them later. 
 
-## Second Solo
+## Second Solo - the DMV
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
-...
+1. Nested Collections
+2. Hashes
+3. API
+4. Test Driven Development
+5. RSpec testing
+6. Ruby Classes
+7. VS Code
+8. Mac Terminal
+9. Github
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
@@ -81,9 +86,6 @@ It was hard to put someone else's code under a microscope and find the smaller e
 **3 What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?
 With some experience in fixing failues and reading rspec output and stack trace, it was somewhat easy to pinpoint where errors happened. 
 
-**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
-**2. What was the benefit of using TDD while building out this project?**<br />
-**3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
 
 ## Paired Paired
 
