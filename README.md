@@ -52,10 +52,10 @@ Methods for the linked list included append, prepend, count, insert, and pop.
 
 ### Reflection Questions: 
 **1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
-
 Test Driven Development was pivotal on this project. It changed my perspective from writing code, to writing code to meet goals I set. Although I don't have it perfected, I saw how TDD can help programmers see edge cases before diving into the code. Then when they do dive in, they are better prepared to address edge cases.
 
-**2. What was your process when you got stuck?**<br /> Similar to other projects, I would first check out the stack trace to see if I made a simple error. Next I would turn to the internet for an explanation. If I couldn't find an answer there, I would check with my cohort. 
+**2. What was your process when you got stuck?**<br /> 
+Similar to other projects, I would first check out the stack trace to see if I made a simple error. Next I would turn to the internet for an explanation. If I couldn't find an answer there, I would check with my cohort. 
 
 
 **3. If you had to do this project again, what would you do differently and why?**<br />
@@ -79,11 +79,13 @@ To do this project differently, I might allow myself more time and space to comp
 #### Write a 1-2 sentence synopsis of what this project does:
 
 ### Reflection Questions: 
-**1 Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
+**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
 I started by running the rspec file and seeing what falures resulted. I systematically worked thorugh the failures one by one to address the issues. Once I thought one was addressed, I would re-run rspec to see if it was solved. If it was, I would move on to the next failed test. After solving the failures, I read through the .lib files and tried to make sense of how the classes interacted. 
-**2 What was hard about working with code you did not write?**<br />
+
+**2. What was hard about working with code you did not write?**<br />
 It was hard to put someone else's code under a microscope and find the smaller errors in it, like missing syntax. It also took some time to look through the classes and understand how they interacted.  
-**3 What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?**<br />
+
+**3. What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?**<br />
 With some experience in fixing failues and reading rspec output and stack trace, it was somewhat easy to pinpoint where errors happened. 
 
 
