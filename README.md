@@ -89,22 +89,30 @@ It was hard to put someone else's code under a microscope and find the smaller e
 With some experience in fixing failues and reading rspec output and stack trace, it was somewhat easy to pinpoint where errors happened. 
 
 
-## Paired Paired
+## Paired - Battleship
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
-...
+1. Nested Collections
+2. Hashes
+3. API
+4. Test Driven Development
+5. RSpec testing
+6. Ruby Classes
+7. VS Code
+8. Mac Terminal
+9. Github
 
-#### Write a 1-2 sentence synopsis of what this project does:
-
+#### Write a 1-2 sentence synopsis of what this project does:**<br />
+This project allows users compete against a computer in a game of battleship. The user starts the game by placing their two ships on the 4x4 grid. The computer places their two ships and the game begins. The boards are rendered, with the computer's ships hidden and the user's ships showing. The user and the computer take turns firing upon each other's boards, and the turn results are reported. The board renders again between turns with misses, hits, and sunk ships reported. The game ends once either all the user's or computer's ships are sunk. 
 ### Reflection Questions: 
 **1. What was your pairing style like? How did you manage your Github work flow? What are your thoughts on that workflow?**<br />
+We worked as a team of 3 on this project, and used driver-navigator-backseat as our pairing style. The navigator directed the driver's code and tests, while the backseat role looked for refactoring opportunities, and chimed in if the driver and navigator got stuck or off track. We found this to be a really effective way to write good code. 
 **2. What skill do you feel you have a better handle on after working on this project? What skill has this project lead you to realize you need more practice on?**<br />
+This project showed me the value of pair coding. Where I previously thought that we would work most efficiently async, some parts of the project on our critical path needed to be completed before we could progress. I was also able to learn live from my partners and code faster since I had them as a resource if we got stuck. 
 **3. What strategies help you best work with others? What would you like others to know about how you work best?**<br />
+Completing a DTR at the beginning of this project helped our group set expectations and boundaries early on. We also checked in midway through the project and after the project to reevaluate our DTR. Besides having a successful project, we all agreed that we enjoyed working together at the end of the project. 
 
 ## Group Project
 
